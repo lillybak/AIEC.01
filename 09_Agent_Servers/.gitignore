@@ -15,6 +15,9 @@ uv.lock
 # LangGraph
 .langgraph_api/
 
+# Vercel
+.vercel/
+
 # Node / Next.js (frontend)
 frontend/node_modules/
 frontend/.next/
